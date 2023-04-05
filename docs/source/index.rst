@@ -6,7 +6,7 @@ Welcome to sphinx-test's documentation!
    :caption: Contents:
 
 
-Hier steht ein Haufen Blödsinn.
+Hier steht vieles oder auch nichts.
 
 
 .. directive_wrapper::
@@ -19,10 +19,3 @@ Hier steht ein Haufen Blödsinn.
 
    .. service_card::
       :service_type: obs
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
