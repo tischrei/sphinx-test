@@ -8,9 +8,17 @@ Welcome to sphinx-test's documentation!
 
 Hier steht ein Haufen Blödsinn.
 
-.. service_card::
+
+.. directive_wrapper::
+   :class: test
+   :id: test2
+   :wrapper_type: section
+
+   .. service_card::
       :service_type: ecs
 
+   .. service_card::
+      :service_type: obs
 
 Indices and tables
 ==================
